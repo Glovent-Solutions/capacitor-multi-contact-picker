@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="net.glocms.plugins.multicontactpicker">
+
+    <application>
+        <activity
+            android:name=".MultiSelectMainActivity"
+            android:exported="false"
+            android:label="@string/title_activity_multi_select_main"
+            android:theme="@style/Theme.Android" />
+        <activity
+            android:name=".MultiContactPickerMainActivity"
+            android:exported="false"
+            android:label="@string/title_activity_multi_contact_picker_main"
+            android:theme="@style/Theme.Android" />
+    </application>
+
+</manifest>

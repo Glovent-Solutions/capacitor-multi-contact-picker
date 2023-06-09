@@ -1,0 +1,6 @@
+<resources>
+  <string name="title_activity_multi_contact_picker_main">MultiContactPickerMainActivity</string>
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+  <string name="title_activity_multi_select_main">MultiSelectMainActivity</string>
+</resources>
