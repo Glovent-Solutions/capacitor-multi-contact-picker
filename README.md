@@ -1,1 +1,1 @@
-# capacitor-multi-contact-picker
+# capacitor-capacitor-multi-contact-picker
