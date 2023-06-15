@@ -1,6 +1,6 @@
 {
   "name": "capacitor-multi-contact-picker",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Contact picker for selecting multiple contacts on a device",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "MultiContactPicker.podspec",
+    "CapacitorMultiContactPicker.podspec",
     "multicontactpicker"
   ],
   "author": "Glovent Pty Ltd",
